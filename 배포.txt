@@ -9,8 +9,8 @@ pip freeze requirements.txt
 
 pip freeze > requirements.txt
 
-2) 쓰지않을 불필요한 파일들 제거.
+2) 쓰지 않을 불필요한 파일들 제거.
 - .gitignore라는 파일에 불필요하거나 공개되면 안될 파일
-- 벌써 .gitignore  없이 git ad . 을 했다면
-- git rm --cached *  #지금까지 너가 팔로우업해왔던거 다 지워
+- 벌써 .gitignore  없이 git add . 을 했다면
+- git rm --cached *  #지금까지 너가 팔로우업 해왔던 거 다 지워
 3) 
